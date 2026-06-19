@@ -1,6 +1,6 @@
-# GLOBE
+# GLOBE-frontend-react-operational
 
-Application de Gestion de la Logistique Opérationnelle, des Bénévoles et des Évènements.
+Frontend opérationnel en React de la solution de Gestion de la Logistique Opérationnelle, des Bénévoles et des Évènements.
 
 ## Licence
 
