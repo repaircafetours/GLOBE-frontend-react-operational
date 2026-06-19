@@ -1,6 +1,6 @@
 # GLOBE
 
-Application de gestion des bénévoles et visiteurs d'événements.
+Application de Gestion de la Logistique Opérationnelle, des Bénévoles et des Évènements.
 
 ## Licence
 
